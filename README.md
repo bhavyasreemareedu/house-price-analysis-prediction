@@ -58,4 +58,24 @@ The models are evaluated using:
 - R² Score
 
 ## How to Run the Project
-1. Download or clone
+1. Download or clone this repository.
+2. Open Google Colab.
+3. Upload the `Housing.csv` dataset.
+4. Open the project notebook.
+5. Run all code cells in order.
+6. View the graphs, evaluation results and predicted house prices.
+
+## Expected Outcomes
+- Understanding housing data and its features.
+- Visualizing factors affecting house prices.
+- Comparing regression model performance.
+- Predicting house prices using Machine Learning.
+
+## Internship Details
+**Organization:** SkillInf  
+**Domain:** Data Science  
+**Week:** Week 1  
+**Project:** House Price Analysis and Prediction
+
+## Conclusion
+This project provides practical experience in data analysis, visualization and Machine Learning. It demonstrates how Python can be used to analyse housing data and predict house prices using regression algorithms.
